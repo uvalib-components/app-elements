@@ -1,12 +1,12 @@
 {
-  "name": "app-elements",
-  "version": "0.10.1",
-  "homepage": "https://github.com/PolymerElements/app-elements",
+  "name": "uvalib-elements",
+  "version": "0.0.1",
+  "homepage": "https://github.com/uvalib-components/uvalib-elements",
   "authors": [
-    "The Polymer Authors"
+    "UVA Library"
   ],
-  "description": "The app elements enable building full web apps out of modular custom elements.",
-  "main": "app-elements.html",
+  "description": "The uvalib elements enable building full web apps out of modular custom elements.",
+  "main": "uvalib-elements.html",
   "moduleType": [],
   "keywords": [
     "web-components",
@@ -24,10 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "app-layout": "PolymerElements/app-layout#^0.10.0",
-    "app-localize-behavior": "PolymerElements/app-localize-behavior#^0.10.0",
-    "app-pouchdb": "PolymerElements/app-pouchdb#^0.9.0",
-    "app-route": "PolymerElements/app-route#^0.9.0",
-    "app-storage": "PolymerElements/app-storage#^0.9.0"
+    "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#latest",
+    "uvalib-theme": "uvalib-components/uvalib-theme#latest"
   }
 }
