@@ -24,14 +24,9 @@
     "tests"
   ],
   "dependencies": {
-    "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#v1.1.2",
-    "uvalib-theme": "uvalib-components/uvalib-theme#v0.0.2",
-    "uvalib-banner": "uvalib-components/uvalib-banner#v0.0.1",
-    "uvalib-models": "uvalib-components/uvalib-models#v0.0.1"
-  },
-  "resolutions": {
-    "uvalib-theme": "v0.0.2",
-    "uvalib-helper-libs": "v1.1.2",
-    "uvalib-models": "v0.0.1"
+    "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#latest",
+    "uvalib-theme": "uvalib-components/uvalib-theme#latest",
+    "uvalib-banner": "uvalib-components/uvalib-banner#latest",
+    "uvalib-models": "uvalib-components/uvalib-models#latest"
   }
 }
