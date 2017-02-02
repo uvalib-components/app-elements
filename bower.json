@@ -27,6 +27,7 @@
     "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#latest",
     "uvalib-theme": "uvalib-components/uvalib-theme#latest",
     "uvalib-banner": "uvalib-components/uvalib-banner#latest",
-    "uvalib-models": "uvalib-components/uvalib-models#latest"
+    "uvalib-models": "uvalib-components/uvalib-models#latest",
+    "uvalib-button": "uvalib-components/uvalib-button#^0.0.1"
   }
 }
