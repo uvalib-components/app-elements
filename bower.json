@@ -28,6 +28,6 @@
     "uvalib-theme": "uvalib-components/uvalib-theme#latest",
     "uvalib-banner": "uvalib-components/uvalib-banner#latest",
     "uvalib-models": "uvalib-components/uvalib-models#latest",
-    "uvalib-button": "uvalib-components/uvalib-button#^latest"
+    "uvalib-button": "uvalib-components/uvalib-button#latest"
   }
 }
