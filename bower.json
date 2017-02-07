@@ -50,5 +50,8 @@
     "uvalib-theme": "uvalib-components/uvalib-theme#latest",
     "web-component-tester": "^5.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4"
   }
 }
