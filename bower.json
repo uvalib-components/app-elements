@@ -31,7 +31,6 @@
     "polymer": "Polymer/polymer#^1.7.1",
     "polymerfire": "firebase/polymerfire#^0.10.3",
     "uvalib-alerts": "uvalib-components/uvalib-alerts#master",
-    "uva-brand-style": "uva-components/uva-brand-style#master",
     "uvalib-analytics": "uvalib-components/uvalib-analytics#master",
     "uvalib-banner": "uvalib-components/uvalib-banner#master",
     "uvalib-button": "uvalib-components/uvalib-button#master",
