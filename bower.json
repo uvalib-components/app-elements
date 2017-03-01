@@ -35,6 +35,7 @@
     "uvalib-banner": "uvalib-components/uvalib-banner#master",
     "uvalib-button": "uvalib-components/uvalib-button#master",
     "uvalib-card": "uvalib-components/uvalib-card#master",
+    "uvalib-chat": "uvalib-components/uvalib-chat#master",
     "uvalib-events-card": "uvalib-components/uvalib-events-card#master",
     "uvalib-footer": "uvalib-components/uvalib-footer#master",
     "uvalib-header": "uvalib-components/uvalib-header#master",
