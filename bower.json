@@ -46,6 +46,7 @@
     "uvalib-models": "uvalib-components/uvalib-models#master",
     "uvalib-nav": "uvalib-components/uvalib-nav#master",
     "uvalib-news-section": "uvalib-components/uvalib-news-section#master",
+    "uvalib-page": "uvalib-components/uvalib-page#master",
     "uvalib-search-box": "uvalib-components/uvalib-search-box#master",
     "uvalib-social-links": "uvalib-components/uvalib-social-links#master",
     "uvalib-skip-nav": "uvalib-components/uvalib-skip-nav#master",
