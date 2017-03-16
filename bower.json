@@ -51,7 +51,8 @@
     "uvalib-skip-nav": "uvalib-components/uvalib-skip-nav#master",
     "uvalib-theme": "uvalib-components/uvalib-theme#master",
     "web-component-tester": "^5.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "app-storage": "PolymerElements/app-storage#^0.9.8"
   },
   "resolutions": {
     "lodash": "^4.17.4"
