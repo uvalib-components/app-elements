@@ -53,9 +53,30 @@
     "uvalib-theme": "uvalib-components/uvalib-theme#master",
     "web-component-tester": "^5.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
-    "app-storage": "PolymerElements/app-storage#^0.9.8"
+    "app-storage": "PolymerElements/app-storage#^0.9.8",
+    "uvalib-scroll-top-button": "uvalib-components/uvalib-scroll-top-button#master"
   },
   "resolutions": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "uvalib-alerts": "master",
+    "uvalib-elements": "master",
+    "uvalib-analytics": "master",
+    "uvalib-banner": "master",
+    "uvalib-button": "master",
+    "uvalib-card": "master",
+    "uvalib-helper-libs": "master",
+    "uvalib-models": "master",
+    "uvalib-search-box": "master",
+    "uvalib-social-links": "master",
+    "uvalib-skip-nav": "master",
+    "uvalib-theme": "master",
+    "uvalib-nav": "master",
+    "uvalib-news-section": "master",
+    "uvalib-hours-card": "master",
+    "uvalib-liame": "master",
+    "uvalib-logos": "master",
+    "uvalib-events-card": "master",
+    "uvalib-footer": "master",
+    "uvalib-header": "master"
   }
 }
