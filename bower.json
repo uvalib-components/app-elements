@@ -54,7 +54,8 @@
     "web-component-tester": "^5.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "app-storage": "PolymerElements/app-storage#^0.9.8",
-    "uvalib-scroll-top-button": "uvalib-components/uvalib-scroll-top-button#master"
+    "uvalib-scroll-top-button": "uvalib-components/uvalib-scroll-top-button#master",
+    "uvalib-forms": "uvalib-components/uvalib-forms#master"
   },
   "resolutions": {
     "lodash": "^4.17.4",
