@@ -55,7 +55,8 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "app-storage": "PolymerElements/app-storage#^0.9.8",
     "uvalib-scroll-top-button": "uvalib-components/uvalib-scroll-top-button#master",
-    "uvalib-forms": "uvalib-components/uvalib-forms#master"
+    "uvalib-forms": "uvalib-components/uvalib-forms#master",
+    "iron-icons": "PolymerElements/iron-icons#^1.2.1"
   },
   "resolutions": {
     "lodash": "^4.17.4",
@@ -78,6 +79,7 @@
     "uvalib-logos": "master",
     "uvalib-events-card": "master",
     "uvalib-footer": "master",
-    "uvalib-header": "master"
+    "uvalib-header": "master",
+    "iron-icons": "^1.2.1"
   }
 }
