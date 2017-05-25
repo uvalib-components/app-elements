@@ -33,7 +33,7 @@
     "uvalib-alerts": "uvalib-components/uvalib-alerts#latest",
     "uva-brand-style": "uva-components/uva-brand-style#latest",
     "uvalib-analytics": "uvalib-components/uvalib-analytics#latest",
-    "uvalib-banner": "uvalib-components/uvalib-banner#latest",
+    "uvalib-banner": "uvalib-components/uvalib-banner#master",
     "uvalib-button": "uvalib-components/uvalib-button#latest",
     "uvalib-card": "uvalib-components/uvalib-card#latest",
     "uvalib-events-card": "uvalib-components/uvalib-events-card#latest",
@@ -53,6 +53,29 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "resolutions": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "uvalib-analytics": "master",
+    "uvalib-card": "0.0.3",
+    "polymer": "^1.8.1",
+    "uvalib-alerts": "master",
+    "uvalib-banner": "master",
+    "uvalib-helper-libs": "1.1.4",
+    "uvalib-button": "0.0.2",
+    "uvalib-events-card": "0.0.1",
+    "uvalib-liame": "0.1.0",
+    "uvalib-logos": "0.0.1",
+    "uvalib-hours-card": "0.0.1",
+    "uvalib-header": "1.0.3",
+    "uvalib-nav": "0.0.4",
+    "uvalib-news-section": "0.0.2",
+    "uvalib-theme": "0.0.5",
+    "uvalib-models": "0.0.3",
+    "uvalib-footer": "0.1.0",
+    "uvalib-search-box": "0.0.1",
+    "uvalib-skip-nav": "0.0.1",
+    "app-storage": "^0.10.0",
+    "iron-icons": "^1.2.1",
+    "uvalib-elements": "0.0.3",
+    "uvalib-social-links": "master"
   }
 }
