@@ -57,7 +57,7 @@
     "uvalib-scroll-top-button": "uvalib-components/uvalib-scroll-top-button#master",
     "uvalib-forms": "uvalib-components/uvalib-forms#master",
     "iron-icons": "PolymerElements/iron-icons#^1.2.1",
-    "uvalib-images": "uvalib-components/uvalib-images#master"
+    "uvalib-images": "uvalib-components/uvalib-images#master",
     "uvalib-libraries": "uvalib-components/uvalib-libraries#master"
   },
   "resolutions": {
