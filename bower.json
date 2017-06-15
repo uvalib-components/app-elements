@@ -58,6 +58,7 @@
     "uvalib-forms": "uvalib-components/uvalib-forms#master",
     "iron-icons": "PolymerElements/iron-icons#^1.2.1",
     "uvalib-images": "uvalib-components/uvalib-images#master"
+    "uvalib-libraries": "uvalib-components/uvalib-libraries#master"
   },
   "resolutions": {
     "lodash": "^4.17.4",
@@ -81,6 +82,8 @@
     "uvalib-events-card": "master",
     "uvalib-footer": "master",
     "uvalib-header": "master",
+    "uvalib-images": "master",
+    "uvalib-libraries": "master",
     "iron-icons": "^1.2.1",
     "app-storage": "^0.10.0",
     "polymer": "^1.9.0",
