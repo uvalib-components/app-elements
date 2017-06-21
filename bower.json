@@ -28,7 +28,7 @@
     "iron-elements": "PolymerElements/iron-elements#^1.0.10",
     "neon-elements": "^1.0.0",
     "paper-elements": "PolymerElements/paper-elements#^1.0.7",
-    "polymer": "Polymer/polymer#^1.7.1",
+    "polymer": "Polymer/polymer#^1.9.0",
     "polymerfire": "firebase/polymerfire#^0.10.3"
   },
   "resolutions": {
