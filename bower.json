@@ -30,5 +30,8 @@
     "paper-elements": "PolymerElements/paper-elements#^1.0.7",
     "polymer": "Polymer/polymer#^1.7.1",
     "polymerfire": "firebase/polymerfire#^0.10.3"
+  },
+  "resolutions": {
+    "app-storage": "^0.10.0"
   }
 }
