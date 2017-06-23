@@ -30,7 +30,12 @@
     "iron-component-page": "^3.0.0",
     "iron-demo-helpers": "^2.0.0",
     "paper-button": "^2.0.0",
-    "uvalib-theme": "uvalib-components/uvalib-theme#2.0"
-    "uvalib-button": "uvalib-components/uvalib-button#2.0"
+    "uvalib-theme": "uvalib-components/uvalib-theme#2.0",
+    "uvalib-button": "uvalib-components/uvalib-button#2.0",
+    "app-route": "*"
+  },
+  "resolutions": {
+    "polymer": "^2.0.1",
+    "webcomponentsjs": "^1.0.1"
   }
 }
