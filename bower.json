@@ -26,6 +26,7 @@
   "dependencies": {
     "polymer": "Polymer#^2.0.1",
     "webcomponentsjs": "^1.0.1",
-    "web-component-tester": "^6.0.0"
+    "web-component-tester": "^6.0.0",
+    "iron-component-page": "^3.0.0"
   }
 }
