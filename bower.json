@@ -31,10 +31,11 @@
     "polymer": "Polymer#^2.0.1",
     "web-component-tester": "^6.0.0",
     "webcomponentsjs": "^1.0.1",
-
     "uvalib-analytics": "uvalib-components/uvalib-analytics#2.0",
     "uvalib-button": "uvalib-components/uvalib-button#2.0",
-    "uvalib-theme": "uvalib-components/uvalib-theme#2.0"
+    "uvalib-theme": "uvalib-components/uvalib-theme#2.0",
+    "iron-image": "PolymerElements/iron-image#^2.1.1",
+    "paper-material": "PolymerElements/paper-material#^2.0.0"
   },
   "resolutions": {
     "polymer": "^2.0.1",
