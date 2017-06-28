@@ -63,7 +63,8 @@
     "lodash": "^4.17.4",
     "moment-timezone": "^0.5.11",
     "iron-swipeable-pages": "^1.2.9",
-    "polymerfire": "^2.1.0"
+    "polymerfire": "^2.1.0",
+    "uvalib-elements": "uvalib-components/uvalib-elements#master"
   },
   "resolutions": {
     "app-storage": "1 - 2",
