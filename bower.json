@@ -64,7 +64,8 @@
     "moment-timezone": "^0.5.11",
     "iron-swipeable-pages": "^1.2.9",
     "polymerfire": "^2.1.0",
-    "uvalib-app": "uvalib-components/uvalib-app#master"
+    "uvalib-app": "uvalib-components/uvalib-app#master",
+    "fetch": "^2.0.3"
   },
   "resolutions": {
     "app-storage": "1 - 2",
