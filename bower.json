@@ -65,13 +65,15 @@
     "iron-swipeable-pages": "^1.2.9",
     "polymerfire": "^2.1.0",
     "uvalib-app": "uvalib-components/uvalib-app#master",
-    "fetch": "^2.0.3"
+    "fetch": "^2.0.3",
+    "promise-polyfill": "^6.0.2"
   },
   "resolutions": {
     "app-storage": "1 - 2",
     "lodash": "^4.17.4",
     "webcomponentsjs": "^v1.0.0",
     "polymerfire": "^2.1.0",
-    "firebase": "^4.1.1"
+    "firebase": "^4.1.1",
+    "promise-polyfill": "^6.0.2"
   }
 }
