@@ -59,10 +59,9 @@
     "paper-elements": "PolymerElements/paper-elements#^1.0.7",
     "polymer": "Polymer/polymer#^1.9.0",
     "web-component-tester": "^5.0.1",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24",
     "lodash": "^4.17.4",
     "moment-timezone": "^0.5.11",
-    "iron-swipeable-pages": "^1.2.9",
     "polymerfire": "^2.1.0",
     "uvalib-app": "uvalib-components/uvalib-app#master",
     "fetch": "^2.0.3",
@@ -71,7 +70,6 @@
   "resolutions": {
     "app-storage": "1 - 2",
     "lodash": "^4.17.4",
-    "webcomponentsjs": "^v1.0.0",
     "polymerfire": "^2.1.0",
     "firebase": "^4.1.1",
     "promise-polyfill": "^6.0.2"
