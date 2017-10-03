@@ -1,6 +1,6 @@
 {
   "name": "uvalib-elements",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "https://github.com/uvalib-components/uvalib-elements",
   "authors": [
     "UVA Library"
@@ -8,12 +8,6 @@
   "description": "The uvalib elements enable building full web apps out of modular custom elements.",
   "main": "uvalib-elements.html",
   "moduleType": [],
-  "keywords": [
-    "web-components",
-    "polymer",
-    "app",
-    "element-collection"
-  ],
   "license": "http://polymer.github.io/LICENSE.txt",
   "private": true,
   "ignore": [
@@ -24,21 +18,13 @@
     "tests"
   ],
   "dependencies": {
-    "app-route": "PolymerElements/app-route#^2.0.0",
-    "iron-component-page": "^3.0.0",
-    "iron-demo-helpers": "^2.0.0",
-    "paper-button": "^2.0.0",
-    "polymer": "Polymer#^2.0.1",
-    "web-component-tester": "^6.0.0",
-    "webcomponentsjs": "^1.0.1",
-    "uvalib-analytics": "uvalib-components/uvalib-analytics#2.0",
-    "uvalib-button": "uvalib-components/uvalib-button#2.0",
-    "uvalib-theme": "uvalib-components/uvalib-theme#2.0",
-    "iron-image": "PolymerElements/iron-image#^2.1.1",
+    "app-route": "PolymerElements/app-route#^2.0.2",
+    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "paper-button": "PolymerElements/paper-button#^2.0.0",
+    "polymer": "^2.1.1",
+    "web-component-tester": "^6.2.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.14",
     "paper-material": "PolymerElements/paper-material#^2.0.0"
-  },
-  "resolutions": {
-    "polymer": "^2.0.1",
-    "webcomponentsjs": "^1.0.1"
   }
 }
