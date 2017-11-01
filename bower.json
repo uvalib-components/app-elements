@@ -65,7 +65,8 @@
     "polymerfire": "^2.1.0",
     "uvalib-app": "uvalib-components/uvalib-app#master",
     "fetch": "^2.0.3",
-    "promise-polyfill": "^6.0.2"
+    "promise-polyfill": "^6.0.2",
+    "uva-icon-link": "uva-components/uva-icon-link#master"
   },
   "resolutions": {
     "app-storage": "1 - 2",
