@@ -37,7 +37,7 @@
     "uvalib-hours-card": "uvalib-components/uvalib-hours-card#master",
     "uvalib-images": "uvalib-components/uvalib-images#master",
     "uvalib-liame": "uvalib-components/uvalib-liame#master",
-    "uvalib-logos": "uvalib-components/uvalib-logos#master",
+    "uvalib-logos": "uvalib-components/uvalib-logos#1.x",
     "uvalib-models": "uvalib-components/uvalib-models#master",
     "uvalib-nav": "uvalib-components/uvalib-nav#master",
     "uvalib-news-section": "uvalib-components/uvalib-news-section#master",
