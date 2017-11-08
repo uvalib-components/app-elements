@@ -25,7 +25,6 @@
   ],
   "dependencies": {
     "uvalib-analytics": "uvalib-components/uvalib-analytics#1.x",
-
     "byutv-jsonp": "^1.3.0",
     "app-elements": "PolymerElements/app-elements#^0.10.1",
     "iron-elements": "PolymerElements/iron-elements#^1.0.10",
@@ -41,5 +40,31 @@
     "polymerfire": "^2.1.0",
     "fetch": "^2.0.3",
     "promise-polyfill": "^6.0.2"
+  },
+  "resolutions": {
+    "iron-component-page": "^1.0.0",
+    "iron-demo-helpers": "^1.0.0",
+    "polymer": "^1.10.1",
+    "webcomponentsjs": "^0.7.24",
+    "web-component-tester": "^5.0.1",
+    "lodash": "^4.17.4",
+    "promise-polyfill": "^1.0.0",
+    "app-layout": "1 - 2",
+    "app-route": "^0.9.0",
+    "app-storage": "1 - 2",
+    "uvalib-analytics": "1.x",
+    "iron-icons": "1 - 2",
+    "iron-doc-viewer": "^1.0.1",
+    "iron-location": "1 - 2",
+    "paper-icon-button": "1 - 2",
+    "paper-card": "^1.0.0",
+    "paper-button": "^1.0.0",
+    "paper-material": "^1.0.5",
+    "test-fixture": "^1.0.0",
+    "iron-icon": "1 - 2",
+    "iron-iconset-svg": "1 - 2",
+    "iron-list": "^1.0.0",
+    "uvalib-elements": "1.x",
+    "uvalib-logos": "1.x"
   }
 }
