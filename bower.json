@@ -26,6 +26,7 @@
   "dependencies": {
     "uvalib-analytics": "uvalib-components/uvalib-analytics#1.x",
     "uvalib-banner": "uvalib-components/uvalib-banner#1.x",
+    "uvalib-button": "uvalib-components/uvalib-button#1.x",
     "byutv-jsonp": "^1.3.0",
     "app-elements": "PolymerElements/app-elements#^0.10.1",
     "iron-elements": "PolymerElements/iron-elements#^1.0.10",
@@ -68,6 +69,7 @@
     "iron-list": "^1.0.0",
     "uvalib-elements": "1.x",
     "uvalib-logos": "1.x",
-    "uvalib-banner": "1.x"
+    "uvalib-banner": "1.x",
+    "uvalib-button": "1.x"
   }
 }
