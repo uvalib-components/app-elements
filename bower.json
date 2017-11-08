@@ -39,6 +39,12 @@
     "uvalib-models": "uvalib-components/uvalib-models#1.x",
     "uvalib-nav": "uvalib-components/uvalib-nav#1.x",
     "uvalib-news-section": "uvalib-components/uvalib-news-section#1.x",
+    "uvalib-page": "uvalib-components/uvalib-page#1.x",
+    "uvalib-search-box": "uvalib-components/uvalib-search-box#1.x",
+    "uvalib-social-links": "uvalib-components/uvalib-social-links#1.x",
+    "uvalib-skip-nav": "uvalib-components/uvalib-skip-nav#1.x",
+    "uvalib-theme": "uvalib-components/uvalib-theme#1.x",
+    "uvalib-libraries": "uvalib-components/uvalib-libraries#1.x",
     "byutv-jsonp": "^1.3.0",
     "app-elements": "PolymerElements/app-elements#^0.10.1",
     "iron-elements": "PolymerElements/iron-elements#^1.0.10",
@@ -93,6 +99,12 @@
     "uvalib-helper-libs": "1.x",
     "uvalib-liame": "1.x",
     "uvalib-models": "1.x",
-    "uvalib-footer": "1.x"
+    "uvalib-footer": "1.x",
+    "uvalib-page": "1.x",
+    "uvalib-theme": "1.x",
+    "uvalib-skip-nav": "1.x",
+    "uvalib-search-box": "1.x",
+    "uvalib-libraries": "1.x",
+    "uvalib-social-links": "1.x"
   }
 }
