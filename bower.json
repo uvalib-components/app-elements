@@ -27,6 +27,10 @@
     "uvalib-footer": "uvalib-components/uvalib-footer#master",
     "uvalib-liame": "uvalib-components/uvalib-liame#master",
     "uvalib-button": "uvalib-components/uvalib-button#master",
-    "uvalib-header": "uvalib-components/uvalib-header#master"
+    "uvalib-header": "uvalib-components/uvalib-header#master",
+    "uvalib-skip-nav": "uvalib-components/uvalib-skip-nav#master",
+    "uvalib-nav": "uvalib-components/uvalib-nav#master",
+    "uvalib-search-box": "uvalib-components/uvalib-search-box#master",
+    "uvalib-hours-card": "uvalib-components/uvalib-hours-card#master"
   }
 }
