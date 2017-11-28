@@ -26,6 +26,7 @@
     "uvalib-analytics": "uvalib-components/uvalib-analytics#master",
     "uvalib-footer": "uvalib-components/uvalib-footer#master",
     "uvalib-liame": "uvalib-components/uvalib-liame#master",
-    "uvalib-button": "uvalib-components/uvalib-button#master"
+    "uvalib-button": "uvalib-components/uvalib-button#master",
+    "uvalib-header": "uvalib-components/uvalib-header#master"
   }
 }
