@@ -32,6 +32,10 @@
     "uvalib-nav": "uvalib-components/uvalib-nav#master",
     "uvalib-search-box": "uvalib-components/uvalib-search-box#master",
     "uvalib-hours-card": "uvalib-components/uvalib-hours-card#master",
-    "app-layout": "PolymerElements/app-layout#^2.0.4"
+    "app-layout": "PolymerElements/app-layout#^2.0.4",
+    "lodash": "^4.17.4"
+  },
+  "resolutions": {
+    "lodash": "^4.17.4"
   }
 }
