@@ -34,7 +34,8 @@
     "uvalib-hours-card": "uvalib-components/uvalib-hours-card#master",
     "app-layout": "PolymerElements/app-layout#^2.0.4",
     "lodash": "^4.17.4",
-    "polymerfire": "^2.2.1"
+    "polymerfire": "^2.2.1",
+    "uvalib-models": "uvalib-components/uvalib-models#master"
   },
   "resolutions": {
     "lodash": "^4.17.4"
