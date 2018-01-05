@@ -36,7 +36,8 @@
     "lodash": "^4.17.4",
     "polymerfire": "^2.2.1",
     "uvalib-models": "uvalib-components/uvalib-models#master",
-    "uvalib-banner": "uvalib-components/uvalib-banner#master"
+    "uvalib-banner": "uvalib-components/uvalib-banner#master",
+    "uvalib-social-links": "uvalib-components/uvalib-social-links#master"
   },
   "resolutions": {
     "lodash": "^4.17.4"
