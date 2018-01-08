@@ -37,7 +37,9 @@
     "polymerfire": "^2.2.1",
     "uvalib-models": "uvalib-components/uvalib-models#master",
     "uvalib-banner": "uvalib-components/uvalib-banner#master",
-    "uvalib-social-links": "uvalib-components/uvalib-social-links#master"
+    "uvalib-social-links": "uvalib-components/uvalib-social-links#master",
+    "paper-input": "PolymerElements/paper-input#^2.0.5",
+    "iron-form": "PolymerElements/iron-form#^2.0.1"
   },
   "resolutions": {
     "lodash": "^4.17.4"
