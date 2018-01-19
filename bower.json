@@ -45,7 +45,8 @@
     "iron-icons": "PolymerElements/iron-icons#^2.0.1",
     "paper-badge": "PolymerElements/paper-badge#^2.0.0",
     "iron-collapse": "PolymerElements/iron-collapse#^2.0.0",
-    "uvalib-alerts": "uvalib-components/uvalib-alerts#master"
+    "uvalib-alerts": "uvalib-components/uvalib-alerts#master",
+    "paper-button": "PolymerElements/paper-button#^2.0.0"
   },
   "resolutions": {
     "lodash": "^4.17.4"
