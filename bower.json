@@ -49,7 +49,8 @@
     "paper-icon-button": "PolymerElements/paper-icon-button#^2.0.1",
     "paper-card": "PolymerElements/paper-card#^2.0.0",
     "uvalib-card": "uvalib-components/uvalib-card#master",
-    "uvalib-button": "uvalib-components/uvalib-button#master"
+    "uvalib-button": "uvalib-components/uvalib-button#master",
+    "uvalib-page": "uvalib-components/uvalib-page#master"
   },
   "resolutions": {
     "lodash": "^4.17.4"
