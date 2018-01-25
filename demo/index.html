@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>uvalib-button demo</title>
+    <title>uvalib-elements demo</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=yes">
     <script src="//static.lib.virginia.edu/js/controllers/webcomponents.js"></script>
@@ -24,7 +24,7 @@
 
     <link rel="import" href="../../uvalib-theme/typekit.html">
     <link rel="import" href="../../uvalib-theme/uvalib-theme.html">
-    <link rel="import" href="../uvalib-button.html">
+    <link rel="import" href="../paper-button.html">
 
     <style is="custom-style" include="demo-pages-shared-styles">
     </style>
@@ -32,12 +32,12 @@
   <body>
 
     <div class="vertical-section-container centered">
-      <h3>Basic uvalib-button Demo</h3>
+      <h3>Basic paper-button Demo</h3>
       <demo-snippet>
         <template>
           <style is="custom-style">
             .simple {
-              --uvalib-button: {
+              --paper-button: {
                 text-transform: none;
                 font-family: SofiaPro;
                 font-size: 14px;
@@ -50,24 +50,24 @@
               };
             }
           </style>
-          <uvalib-button class="simple">simple</uvalib-button>
-          <uvalib-button raised>raised</uvalib-button>
-          <uvalib-button toggles raised>toggles</uvalib-button>
-          <uvalib-button disabled>disabled</uvalib-button>
+          <paper-button class="simple">simple</paper-button>
+          <paper-button raised>raised</paper-button>
+          <paper-button toggles raised>toggles</paper-button>
+          <paper-button disabled>disabled</paper-button>
         </template>
       </demo-snippet>
 
-      <h3>uvalib-button with icon Demo</h3>
+      <h3>paper-button with icon Demo</h3>
       <demo-snippet>
         <template>
-          <uvalib-button icon="bars"></uvalib-button>
-          <uvalib-button icon="search" raised>with text</uvalib-button>
-          <uvalib-button icon="user">another</uvalib-button>
-          <uvalib-button icon="comments" reverse>reverse</uvalib-button>
+          <paper-button icon="bars"></paper-button>
+          <paper-button icon="search" raised>with text</paper-button>
+          <paper-button icon="user">another</paper-button>
+          <paper-button icon="comments" reverse>reverse</paper-button>
         </template>
       </demo-snippet>
 
-      <h3>uvalib-button with link Demo</h3>
+      <h3>paper-button with link Demo</h3>
       <demo-snippet>
         <template>
           <style is="custom-style">
@@ -75,31 +75,31 @@
               color: var(--color-primary-orange);
             }
           </style>
-          <uvalib-button href="https://www.library.virginia.edu">UVA Library Homepage</uvalib-button>
-          <uvalib-button href="https://www.library.virginia.edu" class="custom" icon="search">Custom</uvalib-button>
-          <uvalib-button href="https://www.library.virginia.edu" class="custom" icon="comments"></uvalib-button>
+          <paper-button href="https://www.library.virginia.edu">UVA Library Homepage</paper-button>
+          <paper-button href="https://www.library.virginia.edu" class="custom" icon="search">Custom</paper-button>
+          <paper-button href="https://www.library.virginia.edu" class="custom" icon="comments"></paper-button>
         </template>
       </demo-snippet>
 
-      <h3>Custom uvalib-button with icon Demo</h3>
+      <h3>Custom paper-button with icon Demo</h3>
       <demo-snippet>
         <template>
           <style is="custom-style">
             .small {
               font-size: 10px;
-              --uvalib-button-icon-width: 10px;
-              --uvalib-button-icon-height: 10px;
+              --paper-button-icon-width: 10px;
+              --paper-button-icon-height: 10px;
             }
             .large {
               font-size: 30px;
-              --uvalib-button-icon-width: 30px;
-              --uvalib-button-icon-height: 30px;
+              --paper-button-icon-width: 30px;
+              --paper-button-icon-height: 30px;
             }
           </style>
-          <uvalib-button icon="bars" class="small">Small</uvalib-button><br />
-          <uvalib-button icon="search" raised style="color: blue; height: 33px;">Blue</uvalib-button><br />
-          <uvalib-button icon="user" class="large">Large</uvalib-button><br />
-          <uvalib-button icon="comments" reverse>reverse</uvalib-button><br />
+          <paper-button icon="bars" class="small">Small</paper-button><br />
+          <paper-button icon="search" raised style="color: blue; height: 33px;">Blue</paper-button><br />
+          <paper-button icon="user" class="large">Large</paper-button><br />
+          <paper-button icon="comments" reverse>reverse</paper-button><br />
         </template>
       </demo-snippet>
 
