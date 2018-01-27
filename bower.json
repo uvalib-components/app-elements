@@ -51,7 +51,8 @@
     "uvalib-card": "uvalib-components/uvalib-card#master",
     "uvalib-page": "uvalib-components/uvalib-page#master",
     "iron-list": "PolymerElements/iron-list#^2.0.12",
-    "iron-meta": "PolymerElements/iron-meta#^2.0.5"
+    "iron-meta": "PolymerElements/iron-meta#^2.0.5",
+    "paper-spinner": "PolymerElements/paper-spinner#^2.0.0"
   },
   "resolutions": {
     "lodash": "^4.17.4"
