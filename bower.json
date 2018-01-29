@@ -54,7 +54,8 @@
     "paper-spinner": "PolymerElements/paper-spinner#^2.0.0",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-fab": "PolymerElements/paper-fab#^2.0.0",
-    "uvalib-scroll-top": "uvalib-components/uvalib-scroll-top#master"
+    "uvalib-scroll-top": "uvalib-components/uvalib-scroll-top#master",
+    "iron-swiper": "dougchestnut/iron-swiper#master"
   },
   "resolutions": {
     "lodash": "^4.17.4"
