@@ -56,10 +56,11 @@
     "paper-fab": "PolymerElements/paper-fab#^2.0.0",
     "uvalib-scroll-top": "uvalib-components/uvalib-scroll-top#master",
     "iron-swiper": "dougchestnut/iron-swiper#master",
-    "paper-datatable-api": "^2.0.11"
+    "bwt-datatable": "bluewatertracks/bwt-datatable#^2.1.0"
   },
   "resolutions": {
     "lodash": "^4.17.4",
-    "paper-icon-button": "^2.0.1"
+    "paper-icon-button": "^2.0.1",
+    "paper-checkbox": "^2.0.1"
   }
 }
