@@ -57,7 +57,8 @@
     "uvalib-scroll-top": "uvalib-components/uvalib-scroll-top#master",
     "iron-swiper": "dougchestnut/iron-swiper#master",
     "bwt-datatable": "uva-components/uva-datatable#master",
-    "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0"
+    "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0",
+    "paper-tabs": "PolymerElements/paper-tabs#^2.0.0"
   },
   "resolutions": {
     "lodash": "^4.17.4",
