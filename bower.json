@@ -60,7 +60,8 @@
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0",
     "paper-tabs": "PolymerElements/paper-tabs#^2.0.0",
     "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^2.2.0",
-    "webcomponentsjs": "webcomponents.js#^1.1.0"
+    "webcomponentsjs": "webcomponents.js#^1.1.0",
+    "uvalib-chat": "uvalib-components/uvalib-chat#master"
   },
   "resolutions": {
     "lodash": "^4.17.4",
