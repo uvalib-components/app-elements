@@ -63,7 +63,7 @@
     "webcomponentsjs": "webcomponents.js#^1.1.0",
     "uvalib-chat": "uvalib-components/uvalib-chat#master",
     "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#master",
-    "uvalib-events-ui": "uvalib-components/uvalib-events-ui"
+    "uvalib-events-ui": "uvalib-components/uvalib-events-ui#master"
   },
   "resolutions": {
     "lodash": "^4.17.4",
