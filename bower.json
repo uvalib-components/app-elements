@@ -54,6 +54,7 @@
     "paper-spinner": "PolymerElements/paper-spinner#^2.0.0",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-fab": "PolymerElements/paper-fab#^2.0.0",
+    "paper-chip": "PolymerElements/paper-chip#^2.0.21",
     "uvalib-scroll-top": "uvalib-components/uvalib-scroll-top#master",
     "iron-swiper": "dougchestnut/iron-swiper#master",
     "bwt-datatable": "uva-components/uva-datatable#master",
