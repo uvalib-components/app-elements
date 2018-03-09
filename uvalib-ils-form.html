@@ -15,10 +15,10 @@
           <iron-form allow-redirect id="logonform">
               <form id="Logon" action="[[_action]]" method="post" name="Logon">
                  <input type="hidden" name="ILLiadForm" value="Logon">
-                 <paper-input label="Username" id="username"></paper-input>
-                  <paper-input label="Password" type="password" id="password"></paper-input>
-                  <paper-button raised name="SubmitButton" value="Logon" type="submit" on-tap="submit">Sign In</paper-button>
-                  <paper-button hidden$="[[!_isILL(type)]]" raised name="SubmitButton" value="First Time Users" type="submit" on-tap="submit">First-time Users</paper-button>
+                 <paper-input label="Username" name="username" id="username"></paper-input>
+                 <paper-input label="Password" name="password" type="password" id="password"></paper-input>
+                 <paper-button raised name="SubmitButton" value="Logon" type="submit" on-tap="submit">Sign In</paper-button>
+                 <paper-button hidden$="[[!_isILL(type)]]" raised name="SubmitButton" value="First Time Users" type="submit" on-tap="submit">First-time Users</paper-button>
               </form>
           </iron-form>
       </fieldset>
