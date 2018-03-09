@@ -65,7 +65,8 @@
     "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#master",
     "uvalib-events-ui": "uvalib-components/uvalib-events-ui#master",
     "uvalib-news-section": "uvalib-components/uvalib-news-section#master",
-    "polymer": "Polymer/polymer#^2.5.0"
+    "polymer": "Polymer/polymer#^2.5.0",
+    "paper-chip": "ThomasCybulski/paper-chip#^2.0.21"
   },
   "resolutions": {
     "polymer": "^2.5.0",
