@@ -1,4 +1,4 @@
-<link rel="import" href="../polymer/polymer-element.html">
+<link rel="import" href="../uvalib-theme/uvalib-ui-element.html">
 <link rel="import" href="../uvalib-theme/uvalib-theme.html">
 <link rel="import" href="../iron-form/iron-form.html">
 <link rel="import" href="../paper-input/paper-input.html">
@@ -46,10 +46,10 @@
      * @polymer
      * @demo demo/index.html
      */
-    class UvalibILSForm extends Polymer.Element {
+    class UvalibILSForm extends UvalibUiElement {
       static get is() { return 'uvalib-ils-form'; }
       static get properties() {
-        return {
+        return Object.assign(super.properties,{
           /** either `ils-login` or `ill-login` */
           type: {
             type: String,
@@ -67,7 +67,14 @@
             type: String,
             value: "https://uva.hosts.atlas-sys.com/illiad/illiad.dll"
           }
-        };
+        });
+      }
+      //Concat the this elements template with the parents
+      static get template() {
+        var parentTemplate = UvalibUiElement.template.cloneNode(true);
+        var childTemplate = Polymer.DomModule.import('uvalib-ils-form', 'template');
+        parentTemplate.content.insertBefore(childTemplate.content,null);
+        return parentTemplate;
       }
       _getAction(type) {
         return (this._isILS())?
