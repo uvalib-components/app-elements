@@ -36,8 +36,9 @@
           <iron-form allow-redirect id="logonform">
               <form id="Logon" action="[[_action]]" method="post" name="Logon">
                  <input type="hidden" name="ILLiadForm" value="Logon">
-                 <paper-input label="Username" name="username" id="username"></paper-input>
-                 <paper-input label="Password" name="password" type="password" id="password"></paper-input>
+                 <input type="hidden" name="SubmitButton" value$="{{_buttonAction}}">
+                 <paper-input label="Username" name="Username" id="username"></paper-input>
+                 <paper-input label="Password" name="Password" type="password" id="password"></paper-input>
                  <paper-button raised name="SubmitButton" value="Logon" type="submit" on-tap="submit">Sign In</paper-button>
                  <paper-button hidden$="[[!_isILL(type)]]" raised name="SubmitButton" value="First Time Users" type="submit" on-tap="submit">First-time Users</paper-button>
               </form>
@@ -87,7 +88,8 @@
           _illLogin: {
             type: String,
             value: "https://uva.hosts.atlas-sys.com/illiad/illiad.dll"
-          }
+          },
+          _buttonAction: String
         });
       }
       //Concat the this elements template with the parents
@@ -109,7 +111,8 @@
       _isILL() {
         return (this.type==="ill-login");
       }
-      submit() {
+      submit(e) {
+        this._buttonAction = e.currentTarget.getAttribute('value');
         this.$.logonform.submit();
       }
     }
