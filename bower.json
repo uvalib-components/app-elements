@@ -67,7 +67,8 @@
     "uvalib-news-section": "uvalib-components/uvalib-news-section#master",
     "polymer": "Polymer/polymer#^2.5.0",
     "paper-chip": "ThomasCybulski/paper-chip#^2.0.21",
-    "uvalib-exhibit-ui": "uvalib-components/uvalib-exhibit-ui#master"
+    "uvalib-exhibit-ui": "uvalib-components/uvalib-exhibit-ui#master",
+    "lazy-imports": "Polymer/lazy-imports#^2.1.0"
   },
   "resolutions": {
     "polymer": "^2.5.0",
