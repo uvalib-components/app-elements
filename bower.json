@@ -55,7 +55,7 @@
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-fab": "PolymerElements/paper-fab#^2.0.0",
     "uvalib-scroll-top": "uvalib-components/uvalib-scroll-top#master",
-    "iron-swiper": "dougchestnut/iron-swiper#master",
+    "iron-swiper": "safetychanger/iron-swiper#^2.1.1",
     "bwt-datatable": "uva-components/uva-datatable#master",
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0",
     "paper-tabs": "PolymerElements/paper-tabs#^2.0.0",
@@ -73,6 +73,7 @@
   "resolutions": {
     "polymer": "^2.5.0",
     "webcomponentsjs": "^1.1.0",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "iron-swiper": "^2.1.1"
   }
 }
