@@ -68,7 +68,8 @@
     "polymer": "Polymer/polymer#^2.5.0",
     "paper-chip": "ThomasCybulski/paper-chip#^2.0.21",
     "uvalib-exhibit-ui": "uvalib-components/uvalib-exhibit-ui#master",
-    "lazy-imports": "Polymer/lazy-imports#^2.1.0"
+    "lazy-imports": "Polymer/lazy-imports#^2.1.0",
+    "es6-promise": "^4.2.4"
   },
   "resolutions": {
     "polymer": "^2.5.0",
