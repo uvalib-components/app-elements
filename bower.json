@@ -71,7 +71,8 @@
     "lazy-imports": "Polymer/lazy-imports#^2.1.0",
     "es6-promise": "^4.2.4",
     "uvalib-imageviewer": "uvalib-components/uvalib-imageviewer#master",
-    "iron-localstorage": "PolymerElements/iron-localstorage#^2.1.1"
+    "iron-localstorage": "PolymerElements/iron-localstorage#^2.1.1",
+    "uvalib-account": "uvalib-components/uvalib-account#master"
   },
   "resolutions": {
     "polymer": "^2.5.0",
