@@ -70,7 +70,8 @@
     "uvalib-exhibit-ui": "uvalib-components/uvalib-exhibit-ui#master",
     "lazy-imports": "Polymer/lazy-imports#^2.1.0",
     "es6-promise": "^4.2.4",
-    "uvalib-imageviewer": "uvalib-components/uvalib-imageviewer#master"
+    "uvalib-imageviewer": "uvalib-components/uvalib-imageviewer#master",
+    "iron-localstorage": "PolymerElements/iron-localstorage#^2.1.1"
   },
   "resolutions": {
     "polymer": "^2.5.0",
