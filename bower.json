@@ -65,7 +65,7 @@
     "uvalib-helper-libs": "uvalib-components/uvalib-helper-libs#master",
     "uvalib-events-ui": "uvalib-components/uvalib-events-ui#master",
     "uvalib-news-section": "uvalib-components/uvalib-news-section#master",
-    "polymer": "Polymer/polymer#^3.0.2",
+    "polymer": "Polymer/polymer#^2.5.0",
     "paper-chip": "ThomasCybulski/paper-chip#^2.0.21",
     "uvalib-exhibit-ui": "uvalib-components/uvalib-exhibit-ui#master",
     "lazy-imports": "Polymer/lazy-imports#^2.1.0",
@@ -73,7 +73,8 @@
     "uvalib-imageviewer": "uvalib-components/uvalib-imageviewer#master",
     "iron-localstorage": "PolymerElements/iron-localstorage#^2.1.1",
     "uvalib-account": "uvalib-components/uvalib-account#master",
-    "uvalib-springshare-form": "uvalib-components/uvalib-springshare-form#master"
+    "uvalib-springshare-form": "uvalib-components/uvalib-springshare-form#master",
+    "uvalib-bookplates": "uvalib-components/uvalib-bookplates#master"
   },
   "resolutions": {
     "polymer": "^2.5.0",
