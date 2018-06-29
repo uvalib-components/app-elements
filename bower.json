@@ -37,7 +37,7 @@
     "uvalib-banner": "uvalib-components/uvalib-banner#master",
     "uvalib-social-links": "uvalib-components/uvalib-social-links#master",
     "paper-input": "PolymerElements/paper-input#^2.2.2",
-    "iron-form": "PolymerElements/iron-form#^2.3.0",
+    "iron-form": "PolymerElements/iron-form#^2.4.0",
     "paper-dialog": "PolymerElements/paper-dialog#^2.1.1",
     "iron-icon": "PolymerElements/iron-icon#^2.1.0",
     "iron-icons": "PolymerElements/iron-icons#^2.1.1",
