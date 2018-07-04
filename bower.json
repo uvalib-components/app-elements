@@ -49,7 +49,7 @@
     "paper-card": "PolymerElements/paper-card#^2.1.0",
     "uvalib-card": "uvalib-components/uvalib-card#master",
     "uvalib-page": "uvalib-components/uvalib-page#master",
-    "iron-list": "PolymerElements/iron-list#^2.0.16",
+    "iron-list": "PolymerElements/iron-list#^2.0.17",
     "iron-meta": "PolymerElements/iron-meta#^2.1.1",
     "paper-spinner": "PolymerElements/paper-spinner#^2.1.0",
     "paper-toast": "PolymerElements/paper-toast#^2.1.1",
