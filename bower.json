@@ -74,7 +74,8 @@
     "iron-localstorage": "PolymerElements/iron-localstorage#^2.1.1",
     "uvalib-account": "uvalib-components/uvalib-account#master",
     "uvalib-springshare-form": "uvalib-components/uvalib-springshare-form#master",
-    "uvalib-bookplates": "uvalib-components/uvalib-bookplates#master"
+    "uvalib-bookplates": "uvalib-components/uvalib-bookplates#master",
+    "uvalib-news": "uvalib-components/uvalib-news#master"
   },
   "resolutions": {
     "polymer": "^2.5.0",
