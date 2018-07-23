@@ -75,7 +75,8 @@
     "uvalib-account": "uvalib-components/uvalib-account#master",
     "uvalib-springshare-form": "uvalib-components/uvalib-springshare-form#master",
     "uvalib-bookplates": "uvalib-components/uvalib-bookplates#master",
-    "uvalib-news": "uvalib-components/uvalib-news#master"
+    "uvalib-news": "uvalib-components/uvalib-news#master",
+    "share-menu": "Dabolus/share-menu#^2.0.4"
   },
   "resolutions": {
     "polymer": "^2.5.0",
