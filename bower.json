@@ -77,7 +77,8 @@
     "uvalib-bookplates": "uvalib-components/uvalib-bookplates#master",
     "uvalib-news": "uvalib-components/uvalib-news#master",
     "share-menu": "Dabolus/share-menu#^2.0.4",
-    "uvalib-directory": "uvalib-components/uvalib-directory#master"
+    "uvalib-directory": "uvalib-components/uvalib-directory#master",
+    "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer#^2.1.0"
   },
   "resolutions": {
     "polymer": "^2.5.0",
