@@ -31,11 +31,17 @@
        }
      </style>
     </custom-style>
-      <fieldset class="ils-request">
+       <fieldset class="ils-request">
           <legend><slot></slot></legend>
           <iron-form allow-redirect id="logonform">
-            <a href="https://uvatest.hosts.atlas-sys.com/remoteauth/"><paper-button raised value="Logon">Sign In</paper-button></a>
-            <a href="https://uva.hosts.atlas-sys.com/illiad/logon.html"><paper-button hidden$="[[!_isILL(type)]]" raised value="Non-UVA User" type="submit" >NON-UVA USER?</paper-button></a>
+              <form id="Logon" action="[[_action]]" method="post" name="Logon">
+                 <input type="hidden" name="ILLiadForm" value="Logon">
+                 <input type="hidden" name="SubmitButton" value$="{{_buttonAction}}">
+                 <paper-input label="Username" name="Username" id="username"></paper-input>
+                 <paper-input label="Password" name="Password" type="password" id="password"></paper-input>
+                 <paper-button raised name="SubmitButton" value="Logon" type="submit" on-tap="submit">Sign In</paper-button>
+                 <paper-button hidden$="[[!_isILL(type)]]" raised name="SubmitButton" value="First Time Users" type="submit" on-tap="submit">First-time Users</paper-button>
+              </form>
           </iron-form>
       </fieldset>
   </template>
