@@ -34,8 +34,8 @@
        <fieldset class="ils-request">
           <legend><slot></slot></legend>
           <iron-form allow-redirect id="logonform">
-            <a href="https://uva.hosts.atlas-sys.com/remoteauth/"><paper-button raised value="Logon">Sign In</paper-button></a>
-            <a href="https://uva.hosts.atlas-sys.com/illiad/logon.html"><paper-button hidden$="[[!_isILL(type)]]" raised value="Non-UVA User" type="submit" >NON-UVA USER?</paper-button></a>
+            <a href="https://uva.hosts.atlas-sys.com/RemoteAuth"><paper-button raised value="Logon">Sign In</paper-button></a>
+            <a href="https://uva.hosts.atlas-sys.com/illiadauth"><paper-button hidden$="[[!_isILL(type)]]" raised value="Non-UVA User" type="submit" >NON-UVA USER?</paper-button></a>
           </iron-form>
       </fieldset>
   </template>
