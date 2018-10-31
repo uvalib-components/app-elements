@@ -1,6 +1,5 @@
 <link rel="import" href="../uvalib-theme/uvalib-ui-element.html">
 <link rel="import" href="../uvalib-theme/uvalib-theme.html">
-<link rel="import" href="../iron-form/iron-form.html">
 <link rel="import" href="../paper-input/paper-input.html">
 <link rel="import" href="../paper-button/paper-button.html">
 
@@ -31,13 +30,11 @@
        }
      </style>
     </custom-style>
-       <fieldset class="ils-request">
-          <legend><slot></slot></legend>
-          <iron-form allow-redirect id="logonform">
-            <a href="https://uva.hosts.atlas-sys.com/RemoteAuth"><paper-button raised value="Logon">Sign In</paper-button></a>
-            <a href="https://uva.hosts.atlas-sys.com/illiadauth"><paper-button hidden$="[[!_isILL(type)]]" raised value="Non-UVA User" type="submit" >NON-UVA USER?</paper-button></a>
-          </iron-form>
-      </fieldset>
+    <fieldset class="ils-request">
+        <legend><slot></slot></legend>
+        <a tabindex="-1" href="https://uva.hosts.atlas-sys.com/RemoteAuth"><paper-button raised value="Logon">Sign In</paper-button></a>
+        <a tabindex="-1" href="https://uva.hosts.atlas-sys.com/illiadauth"><paper-button hidden$="[[!_isILL(type)]]" raised value="Non-UVA User">NON-UVA USER?</paper-button></a>
+    </fieldset>
   </template>
 
   <script>
@@ -71,10 +68,6 @@
             type: String,
             value: "ils-login"
           },
-          _action: {
-            type: String,
-            computed: "_getAction(type)"
-          },
           _ilsLogin: {
             type: String,
             value: "https://uva.hosts.atlas-sys.com/illiad/lending/illiadlending.dll"
@@ -82,8 +75,7 @@
           _illLogin: {
             type: String,
             value: "https://uva.hosts.atlas-sys.com/illiad/illiad.dll"
-          },
-          _buttonAction: String
+          }
         });
       }
       //Concat the this elements template with the parents
@@ -93,21 +85,11 @@
         parentTemplate.content.insertBefore(childTemplate.content,null);
         return parentTemplate;
       }
-      _getAction(type) {
-        return (this._isILS())?
-                  this._ilsLogin:
-                  (this._isILL())?
-                      this._illLogin: null;
-      }
       _isILS() {
         return (this.type==="ils-login");
       }
       _isILL() {
         return (this.type==="ill-login");
-      }
-      submit(e) {
-        this._buttonAction = e.currentTarget.getAttribute('value');
-        this.$.logonform.submit();
       }
     }
 
