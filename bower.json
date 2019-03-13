@@ -84,7 +84,8 @@
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^2.0.3",
     "google-youtube": "GoogleWebComponents/google-youtube#^2.0.0",
     "uvalib-models": "uvalib-components/uvalib-models#master",
-    "uvalib-form-builder": "uvalib-components/uvalib-form-builder#master"
+    "uvalib-form-builder": "uvalib-components/uvalib-form-builder#master",
+    "uvalib-sis-input": "uvalib-components/uvalib-sis-input#master"
   },
   "resolutions": {
     "webcomponentsjs": "^1.1.1",
