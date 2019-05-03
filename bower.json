@@ -86,7 +86,8 @@
     "uvalib-models": "uvalib-components/uvalib-models#master",
     "uvalib-form-builder": "uvalib-components/uvalib-form-builder#master",
     "uvalib-sis-input": "uvalib-components/uvalib-sis-input#master",
-    "paper-radio-group": "v2.2.0"
+    "paper-radio-group": "v2.2.0",
+    "lazyload-image": "^2.1.0"
   },
   "resolutions": {
     "webcomponentsjs": "^1.1.1",
