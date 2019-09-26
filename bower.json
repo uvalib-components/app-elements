@@ -22,7 +22,7 @@
     "app-route": "PolymerElements/app-route#^2.1.1",
     "app-storage": "PolymerElements/app-storage#^2.1.2",
     "paper-material": "PolymerElements/paper-material#^2.1.0",
-    "uvalib-theme": "uvalib-components/uvalib-theme#master",
+    "uvalib-theme": "uvalib-components/uvalib-theme#^2.0.0",
     "uvalib-logos": "uvalib-components/uvalib-logos#master",
     "uvalib-analytics": "uvalib-components/uvalib-analytics#master",
     "uvalib-footer": "uvalib-components/uvalib-footer#master",
