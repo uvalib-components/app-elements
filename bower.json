@@ -88,7 +88,7 @@
     "uvalib-form-builder": "uvalib-components/uvalib-form-builder#master",
     "uvalib-sis-input": "uvalib-components/uvalib-sis-input#master",
     "paper-radio-group": "v2.2.0",
-    "uva-accordion": "uva-components/uva-accordion#2.0.9"
+    "uva-accordion": "uva-components/uva-accordion#2.0.11"
   },
   "resolutions": {
     "webcomponentsjs": "^1.1.1",
